@@ -14,17 +14,15 @@ Created by Chitresh Bhushan, Divya Varadarajan, Anand A. Joshi, Richard M. Leahy
 
 
 
-# License 
+## License 
 
-This work is dual-licensed under Apache-2.0 OR GPL-2.0-only.
-You can choose between one of them if you use this work.
+IPED is licensed under either of 
+ * Apache License, Version 2.0, ([LICENSE-APACHE](./LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
+ * GNU General Public License v2.0 ([LICENSE-GPL2](./LICENSE-GPL2) or https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html)
+
+at your option. You can choose between one of them if you use IPED in your work.
 
 SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-only
-
-Created by Chitresh Bhushan, Divya Varadarajan, Anand A. Joshi, 
-           Richard M. Leahy, and Justin P. Haldar.
-
-Please see the included license file(s) for more details.
 
 In no event shall the University of Southern California, the Authors, or the Distributors be liable to any party for direct, indirect, special, incidental, or consequential damages, including lost profits, arising out of the use of this software, its documentation, or any derivatives thereof, even if the authors have been advised of the possibility of such damage. 
 
