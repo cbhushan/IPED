@@ -1,0 +1,7 @@
+*.asv
+mccExcludedFiles.log
+run_*.sh
+*~
+~*
+.DS_Store
+*.zip
