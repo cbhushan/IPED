@@ -129,7 +129,7 @@ IPED is licensed under either of
 
 at your option. You can choose between one of them if you use IPED in your work.
 
-IPED makes use of components from few external libraries, which are located in (see [3rdParty](./3rdParty) directory along with their license files.
+IPED makes use of components from few external libraries, which are listed in [NOTICE.txt](./NOTICE.txt). These components can be found in [3rdParty](./3rdParty) directory along with their license files.
 
 SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-only
 
