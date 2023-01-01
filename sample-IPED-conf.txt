@@ -1,0 +1,4 @@
+/IPED-test-data/6067JH.DWI.00.nii.gz   y- /IPED-test-data/6067JH.DWI.00.bvec   /IPED-test-data/6067JH.DWI.00.bval
+/IPED-test-data/6067JH.DWI.180.nii.gz  y  /IPED-test-data/6067JH.DWI.180.bvec  /IPED-test-data/6067JH.DWI.180.bval
+/IPED-test-data/6067JH.DWI.90.nii.gz   x- /IPED-test-data/6067JH.DWI.90.bvec   /IPED-test-data/6067JH.DWI.90.bval
+/IPED-test-data/6067JH.DWI.-90.nii.gz  x  /IPED-test-data/6067JH.DWI.-90.bvec  /IPED-test-data/6067JH.DWI.-90.bval
