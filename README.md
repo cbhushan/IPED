@@ -3,13 +3,12 @@
 This is Matlab implementation of a distortion correction method for diffusion MRI that uses interlaced phase-encoding directions (IPED) while sampling the q-space. 
 The IPED technique is described in [this MRM paper](https://doi.org/10.1002/mrm.25026) and enables accurate distortion correction without increasing the overall acquisition time.
 
+Please see [USAGE page](./USAGE.md) for details of how to use this implementation. 
+
 Comparison of different distortion correction methods applied to in-vivo brain data:
 ![IPED results on real data](./IPED_results.png)
 
 <img align="right" src="./4IPED_sample.png">
-
-Please see [USAGE page](./USAGE.md) for details of how to use this implementation. 
-
 Please cite [1] and [2] if you use this code or its derivatives in your own work.
 
 1. C. Bhushan, A. A. Joshi, R. M. Leahy and J. P. Haldar (2014), [Improved B0-distortion correction in diffusion MRI using interlaced q-space sampling and constrained reconstruction](http://dx.doi.org/10.1002/mrm.25026). Magnetic Resonance in Medicine, 72: 1218-1232. doi: [10.1002/mrm.25026](http://dx.doi.org/10.1002/mrm.25026)
@@ -34,10 +33,9 @@ SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-only
 IPED makes use of components from few external libraries, which are listed in [NOTICE.txt](./NOTICE.txt). These components can be found in [3rdParty](./3rdParty) directory along with corresponding license files.
 
 This program is free software; you can redistribute it and/or modify it under the terms of 
-Apache License, Version 2.0
-OR 
-the GNU General Public License, version 2.
-
+"Apache License, Version 2.0"
+**OR**
+"GNU General Public License, version 2".
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
