@@ -30,12 +30,13 @@ at your option. You can choose between one of them if you use IPED in your work.
 
 SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-only
 
-IPED makes use of components from few external libraries, which are listed in [NOTICE.txt](./NOTICE.txt). These components can be found in [3rdParty](./3rdParty) directory along with corresponding license files.
+IPED makes use of components from few external libraries, which are listed
+in [NOTICE.txt](./NOTICE.txt). These components can be found in 
+[3rdParty](./3rdParty) directory along with corresponding license files.
 
-This program is free software; you can redistribute it and/or modify it under the terms of 
-"Apache License, Version 2.0"
-**OR**
-"GNU General Public License, version 2".
+This program is free software; you can redistribute it and/or 
+modify it under the terms of 
+"Apache License, Version 2.0" **OR** "GNU General Public License, version 2".
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
@@ -44,7 +45,16 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the Licenses linked above for more details.
 
-In no event shall the University of Southern California, the Authors, or the Distributors be liable to any party for direct, indirect, special, incidental, or consequential damages, including lost profits, arising out of the use of this software, its documentation, or any derivatives thereof, even if the authors have been advised of the possibility of such damage.
+In no event shall the University of Southern California, the Authors, or the 
+Distributors be liable to any party for direct, indirect, special, incidental,
+or consequential damages, including lost profits, arising out of the use of 
+this software, its documentation, or any derivatives thereof, even if the 
+authors have been advised of the possibility of such damage.
 
-The University of Southern California, the Authors, and the Distributors specifically disclaim any warranties, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. This software is provided on an "as is" basis, and the authors and distributors have no obligation to provide maintenance, support, updates, enhancements, or modifications. This software is for research purposes only and has not been approved for clinical use.
-
+The University of Southern California, the Authors, and the Distributors 
+specifically disclaim any warranties, including, but not limited to, the implied
+warranties of merchantability, fitness for a particular purpose, and 
+non-infringement. This software is provided on an "as is" basis, and the authors
+and distributors have no obligation to provide maintenance, support, updates, 
+enhancements, or modifications. This software is for research purposes only and
+has not been approved for clinical use.
