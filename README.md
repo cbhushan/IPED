@@ -1,9 +1,9 @@
 # IPED: Distortion correction using interlaced q-space sampling in diffusion MRI
 
 This is Matlab implementation of a distortion correction method for diffusion MRI that uses interlaced phase-encoding directions (IPED) while sampling the q-space. 
-The IPED technique is described in [this MRM paper](https://doi.org/10.1002/mrm.25026) and enables accurate distortion correction without increasing the overall acquisition time.
+The IPED technique is described in [this MRM paper](https://doi.org/10.1002/mrm.25026) and enables accurate distortion correction without increasing the overall acquisition time. 
 
-Please see [USAGE page](./USAGE.md) for details of how to use this implementation. 
+This implementation also supports conventional reversed-gradient ([Chang and Fitzpatrick, 1992](http://dx.doi.org/10.1109/42.158935)) and its generalized acquisition schemes without any modification. Please see [USAGE page](./USAGE.md) for details of how to use this implementation. 
 
 Comparison of different distortion correction methods applied to in-vivo brain data:
 ![IPED results on real data](./IPED_results.png)
